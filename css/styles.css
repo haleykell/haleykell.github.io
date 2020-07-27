@@ -10132,8 +10132,9 @@ p.lead {
 .cpp {width: 65%; background-color: #d44753;} /* Blue */
 .c {width: 65%; background-color: #d44753;} /* Red */
 .cuda {width: 40%; background-color: #d44753;} /* Dark Grey */
-.php {width: 40%; background-color: #d44753;} /* Red */
-.python {width: 30%; background-color: #d44753;} /* Dark Grey */
+.js {width: 35%; background-color: #d44753;} /* Dark Grey */
+.php {width: 35%; background-color: #d44753;} /* Red */
+.python {width: 25%; background-color: #d44753;} /* Dark Grey */
 
 section.resume-section {
   display: flex;
